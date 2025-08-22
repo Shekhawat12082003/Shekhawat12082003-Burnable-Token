@@ -18,7 +18,6 @@ This design can help maintain scarcity, increase long-term value, and serve as a
 - Build a **DApp interface** for users to burn tokens easily.  
 - Extend functionality for staking, governance, and reward mechanisms.  
 
-## 📜 Contract Address  
-`<Your Contract Address Here>`  
-
-![alt text](<Screenshot 2025-08-22 140953.png>)
+# 📜 Contract Address  
+ST176MPB231RD2NK8PR58TP68WAVW6BHPYCAXNCQ8.BurnableToken
+#<img width="1919" height="903" alt="Screenshot 2025-08-22 140953" src="https://github.com/user-attachments/assets/72925dd6-8ab5-4450-abd7-f54368c03810" />
